@@ -22,5 +22,5 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-#api key 
-key.js
+# Google Places API Key
+places.api.key.js
