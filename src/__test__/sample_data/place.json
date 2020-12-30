@@ -1,0 +1,38 @@
+{
+    "business_status" : "OPERATIONAL",
+    "formatted_address" : "5871 University Ave Suite 331, San Diego, CA 92115, United States",
+    "geometry" : {
+       "location" : {
+          "lat" : 32.7487793,
+          "lng" : -117.07042
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 32.75012912989272,
+             "lng" : -117.0690701701073
+          },
+          "southwest" : {
+             "lat" : 32.74742947010728,
+             "lng" : -117.0717698298927
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "name" : "Cali Wear SD",
+    "opening_hours" : {
+       "open_now" : true
+    },
+    "photos" : [
+       {
+          "height" : 3024,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/113742680564847114038\"\u003eA Google User\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwLRbPTa2YcD6QA7Ys50XXhR-v15JutKmA2FPBNlXM8LKgfbpeTQQIqaFLu85cgYOB5g0sxcmKLn0r8MVt0j177C_am4DZ-NLHM28IhtIlEhDO5L9jXF7kqTLSFjzJGzX20zSipUOS6K3obo4jPXsNOJtJGNaPzbPS475yhdkJGR1sFj",
+          "width" : 4032
+       }
+    ],
+    "place_id" : "ChIJVzq5qqVW2YARvJkTmjfzD-U",
+    "rating" : 4.7,
+    "types" : [ "point_of_interest", "clothing_store", "store", "establishment" ]
+ }

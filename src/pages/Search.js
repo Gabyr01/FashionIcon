@@ -1,5 +1,6 @@
 import React from 'react'
-
+import {PlacesAPI} from '../helpers/places.api'
+const api = new PlacesAPI()
 /**
  * TODO: Implement the search page
  * First create a SearchBar Component with a button in the components folder
