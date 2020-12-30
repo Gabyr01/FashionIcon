@@ -21,13 +21,15 @@
  * Step 8: Implement getPlacesByZipCode(zipCode)
  */
 
- class PlacesAPI{
+ export class PlacesAPI{
 
      constructor(){
          //Step 6 to 7
      }
 
-     getClothingStoresByZipCode(/* Zipcode */){
+     // Gets clothing stores around a given zip code.
+     // Note that this may include clothing stores outside of the zip code but still near by.
+     getClothingStoresNear(/* Zipcode */){
         // 1. Create a try catch to verify if input is valid.
         // 2. Using the Private varibales and the Zipcode. Create a string literal (i.e) concatnate 
         //    everything to form a valid api Link such that :
@@ -39,4 +41,36 @@
 
         // Boom, We are ready to test and debug if needed.
      }
+
+
+     // Grabs the neccessary information from the results and leaves the rest.
+    
+     /*
+        name:
+        business_status: 
+        formatted_address: 
+        geometry: 
+        icon:
+        photos: 
+        rating:
+        opening_hours:
+        types:
+        place_id
+     */
+     getSanitizedResults(results){
+
+         // Returns an array of clothing stores
+     }
+
+     // Removes clothing stores that are note in that zipcode but still came in the result. IF we have time we can work on this too
+     filterResultsByZipCode(/* results, zipcode */){
+
+     }
  }
+
+ // The clothing store class 
+export class ClothingStore{
+    constructor(place_id, name, business_status, formatted_address, geometry, icon, photos, rating, types){
+
+    }
+}

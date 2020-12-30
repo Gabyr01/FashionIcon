@@ -1,0 +1,781 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwJhZxa3YQHEwSZ7poG55SEBGYHjOYOjp_nJGGHHUs7_SkFCFMMIz4CKlZG8092kVH_tBBn4cFWHFJF7YzAYl2jSJdlFvGo_I8TkSsXiEdgwP090bjvCxxACQKS_LVqbunD7tA43kQfQeiLrAfAcVdukn24Mt9yTkuqsZua0diXsHpVfaOK5YNNVXkoKQtIgUDKPFzWRm48n4Ml1lP0AQmYDIPBNqZ0m8BUXdfe6CpjzyV4X74AFI0aclUsZC035975dkmrtztG4fKqtz6OrscyLUo3qUDgXBkV9mzIjEG7emUa48ED4IjYDLHhL7k2mLy0Z0IXlDSf2kH-vmx_LA89SjAZutzQBLAhJOPPUtKXPnHd3q8A5iFxE5FOkwaf0BBAhCrYAkN7eaDNqVIC0QJD6sA",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "5871 University Ave Suite 331, San Diego, CA 92115, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7487793,
+               "lng" : -117.07042
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.75012912989272,
+                  "lng" : -117.0690701701073
+               },
+               "southwest" : {
+                  "lat" : 32.74742947010728,
+                  "lng" : -117.0717698298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Cali Wear SD",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113742680564847114038\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK3We_L9zTv4VEa4_tUz_BRuc3xYE60W_vmnVHrJbBSWEcC3WiBjW7AaAdzSclKbP505P1efM43MAtVM6oY0yAuYtFZFtjcs-4IWd86Qvf5TsTvK5S3SnG4iCjDjAdEDSNTeVdBTNGUbt4NIemaOusE9dt71t2y0IBSj_bKiD5ctLu6",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJVzq5qqVW2YARvJkTmjfzD-U",
+         "plus_code" : {
+            "compound_code" : "PWXH+GR San Diego, California",
+            "global_code" : "8544PWXH+GR"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJVzq5qqVW2YARvJkTmjfzD-U",
+         "types" : [ "point_of_interest", "clothing_store", "store", "establishment" ],
+         "user_ratings_total" : 42
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "4274 El Cajon Blvd, San Diego, CA 92105, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7554254,
+               "lng" : -117.1023456
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.75667182989272,
+                  "lng" : -117.1009959701072
+               },
+               "southwest" : {
+                  "lat" : 32.75397217010728,
+                  "lng" : -117.1036956298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "LK Fashion Boutique",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104514465920871521116\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLyKeQSGnb2SqJh625hkncdJJlPu5z3N_CCSEwb51j3NhFikJtFYc14bwJpyfpim5IuG7Okfi5ZLeaEXIz_NfYSYetlxT9R6v40fYnwiPCNMKiUEiciWX0kECoi_XTY4lhbdZ-UcPHyzZ4_Aj_hw8r_O-J0-3ASB3bGRYb8pJHOC_40",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJo2ox-yBU2YARiDbbjMOzVPE",
+         "plus_code" : {
+            "compound_code" : "QV4X+53 San Diego, California",
+            "global_code" : "8544QV4X+53"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJo2ox-yBU2YARiDbbjMOzVPE",
+         "types" : [ "clothing_store", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 27
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "5341 El Cajon Blvd, San Diego, CA 92115, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7574085,
+               "lng" : -117.0808623
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.75883472989272,
+                  "lng" : -117.0795295201073
+               },
+               "southwest" : {
+                  "lat" : 32.75613507010728,
+                  "lng" : -117.0822291798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Kc Heals",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2269,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106776452624981978157\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJcXfk6DSZA3V5PQDVGPK8YEL1QYfcYejDuaGoq34RrVgUkaJRMCBZ48vqdOYqsrLMk8tPzkZDlmKFZGNhJsDN2Yn1JFOyMoUxJG2zqQcKgsDoU_OJNwwMf9TCh-m3C4cUpE9qjcuB5c-8uUm9or0v2PIqPN9GQyrICjDB0-bLkLQyz",
+               "width" : 4502
+            }
+         ],
+         "place_id" : "ChIJv2zSjCBU2YARjCoN-XAWDCQ",
+         "plus_code" : {
+            "compound_code" : "QW49+XM San Diego, California",
+            "global_code" : "8544QW49+XM"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJv2zSjCBU2YARjCoN-XAWDCQ",
+         "types" : [ "clothing_store", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 28
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "formatted_address" : "4879 University Ave, San Diego, CA 92105, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7493124,
+               "lng" : -117.0892074
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.75077337989271,
+                  "lng" : -117.0878556701073
+               },
+               "southwest" : {
+                  "lat" : 32.74807372010726,
+                  "lng" : -117.0905553298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Discount Store Fashion",
+         "permanently_closed" : true,
+         "place_id" : "ChIJKxX7sBlU2YARlpyXOSBK7rA",
+         "plus_code" : {
+            "compound_code" : "PWX6+P8 San Diego, California",
+            "global_code" : "8544PWX6+P8"
+         },
+         "rating" : 4,
+         "reference" : "ChIJKxX7sBlU2YARlpyXOSBK7rA",
+         "types" : [ "clothing_store", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "formatted_address" : "4597 El Cajon Blvd, San Diego, CA 92115, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7558258,
+               "lng" : -117.0953479
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.75708642989272,
+                  "lng" : -117.0939809701073
+               },
+               "southwest" : {
+                  "lat" : 32.75438677010728,
+                  "lng" : -117.0966806298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Near East Fashions",
+         "permanently_closed" : true,
+         "place_id" : "ChIJcbcwbTxU2YARffc0W5aazzw",
+         "plus_code" : {
+            "compound_code" : "QW43+8V San Diego, California",
+            "global_code" : "8544QW43+8V"
+         },
+         "rating" : 5,
+         "reference" : "ChIJcbcwbTxU2YARffc0W5aazzw",
+         "types" : [ "clothing_store", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "4341 El Cajon Blvd, San Diego, CA 92105, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.75473100000001,
+               "lng" : -117.101088
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.75624077989272,
+                  "lng" : -117.0997414201072
+               },
+               "southwest" : {
+                  "lat" : 32.75354112010728,
+                  "lng" : -117.1024410798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "San Diego Vintage Clothing",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJd-18Mz9U2YARSf-pn4uNqvc",
+         "plus_code" : {
+            "compound_code" : "QV3X+VH San Diego, California",
+            "global_code" : "8544QV3X+VH"
+         },
+         "rating" : 2.5,
+         "reference" : "ChIJd-18Mz9U2YARSf-pn4uNqvc",
+         "types" : [ "clothing_store", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "formatted_address" : "San Diego, CA 92195, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7649983,
+               "lng" : -117.0606249
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.76636052989272,
+                  "lng" : -117.0592912701073
+               },
+               "southwest" : {
+                  "lat" : 32.76366087010727,
+                  "lng" : -117.0619909298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "La Mode Chic",
+         "permanently_closed" : true,
+         "place_id" : "ChIJndvm7ZNW2YAR83Df9BUnccs",
+         "rating" : 5,
+         "reference" : "ChIJndvm7ZNW2YAR83Df9BUnccs",
+         "types" : [ "point_of_interest", "clothing_store", "store", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "formatted_address" : "6163 University Ave, San Diego, CA 92115, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7530747,
+               "lng" : -117.0628607
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.75451667989272,
+                  "lng" : -117.0615507201072
+               },
+               "southwest" : {
+                  "lat" : 32.75181702010727,
+                  "lng" : -117.0642503798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Ba-Alawi Fashion",
+         "permanently_closed" : true,
+         "place_id" : "ChIJLfQy9LtW2YARAcraObt1Qd0",
+         "plus_code" : {
+            "compound_code" : "QW3P+6V San Diego, California",
+            "global_code" : "8544QW3P+6V"
+         },
+         "rating" : 0,
+         "reference" : "ChIJLfQy9LtW2YARAcraObt1Qd0",
+         "types" : [ "clothing_store", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "3450 College Ave, San Diego, CA 92115, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7418557,
+               "lng" : -117.0547529
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.74328412989272,
+                  "lng" : -117.0535836701073
+               },
+               "southwest" : {
+                  "lat" : 32.74058447010728,
+                  "lng" : -117.0562833298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Ross Dress for Less",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109825555933363649002\"\u003edavid martinez\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL9BMA_pUXqCcKXzMgXUJMFZW8sYCmr38NF9nt17Ann7lyW2wTC2QmHIdTcbKhkOCgc_9Vc6I6FEe9cwRSdIUJDoyPO45Vrj5E3Yt3Bbix5W4mD6Z2lQSabrAswiD6ikxBFcKoGziEoajO77pWIZ9Nnp0pbWRw4ePK0tsjN_HTNgMeQ",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJmfgcjMpW2YAR2GnsZ4bQtKI",
+         "plus_code" : {
+            "compound_code" : "PWRW+P3 San Diego, California",
+            "global_code" : "8544PWRW+P3"
+         },
+         "price_level" : 1,
+         "rating" : 4.1,
+         "reference" : "ChIJmfgcjMpW2YAR2GnsZ4bQtKI",
+         "types" : [
+            "clothing_store",
+            "department_store",
+            "shoe_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1042
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "5844 Montezuma Rd, San Diego, CA 92115, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7710086,
+               "lng" : -117.0708369
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.77234962989272,
+                  "lng" : -117.0694246701073
+               },
+               "southwest" : {
+                  "lat" : 32.76964997010727,
+                  "lng" : -117.0721243298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Wotown SDSU",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108961318576098569734\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKigT-JoGdKVQG8gfBZRFXC15gijhifbxX67KUBRlgBEjTUvpolJ-cNJVh8OOCaD48isw-5-psRP8tBsMJlCBDl6z0Tw6fRkO5yec1CDV-S89tPDUGI5v_KinsJowt166d3mbONDenjb8emZK6QM1ETnF2TaHyOQXCg7x1WDtVcmSAs",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJYQvbKNBX2YAR_1tDMwfQa04",
+         "plus_code" : {
+            "compound_code" : "QWCH+CM San Diego, California",
+            "global_code" : "8544QWCH+CM"
+         },
+         "rating" : 5,
+         "reference" : "ChIJYQvbKNBX2YAR_1tDMwfQa04",
+         "types" : [ "point_of_interest", "clothing_store", "store", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "4362 54th St, San Diego, CA 92115, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7570753,
+               "lng" : -117.0802533
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.75842632989272,
+                  "lng" : -117.0787616701073
+               },
+               "southwest" : {
+                  "lat" : 32.75572667010727,
+                  "lng" : -117.0814613298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Focus Fashion",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1440,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101675582697041902737\"\u003eJohn Sabouny\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLREoT0mSDwwyBzGVppcSt7aqvtwErROEcXU5kab3hmazaiDk3eZ49HIIL2YUHs5IdgzHGJ2ZmzSYWF4FnG0v6LTCV509eX_eHE99u3G9ViBFBLpw6xPY5d2MoLwLjt6ekwaZx9p34jz-XTcKcV4q6XdnSyXrtcrJ-dob9PWgQjIxRU",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJOa2lfyBU2YAREv79hBx2hTs",
+         "plus_code" : {
+            "compound_code" : "QW49+RV San Diego, California",
+            "global_code" : "8544QW49+RV"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJOa2lfyBU2YAREv79hBx2hTs",
+         "types" : [ "point_of_interest", "clothing_store", "store", "establishment" ],
+         "user_ratings_total" : 14
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "formatted_address" : "San Diego, CA 92105, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7485993,
+               "lng" : -117.0779186
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.74992797989272,
+                  "lng" : -117.0765097201073
+               },
+               "southwest" : {
+                  "lat" : 32.74722832010728,
+                  "lng" : -117.0792093798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Star Fashion",
+         "permanently_closed" : true,
+         "place_id" : "ChIJo1yJP6dW2YARbn79ENw88gE",
+         "plus_code" : {
+            "compound_code" : "PWXC+CR San Diego, California",
+            "global_code" : "8544PWXC+CR"
+         },
+         "rating" : 0,
+         "reference" : "ChIJo1yJP6dW2YARbn79ENw88gE",
+         "types" : [ "clothing_store", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "6940, C, Alvarado Rd, San Diego, CA 92120, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7747348,
+               "lng" : -117.0491041
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.77614697989272,
+                  "lng" : -117.0476859701072
+               },
+               "southwest" : {
+                  "lat" : 32.77344732010728,
+                  "lng" : -117.0503856298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Looks Better On Me",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105155803367967961649\"\u003eTrisha Donnelly\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLIbj44HSqg_4Rrhyld0mfTauzApsSUE9iCSXkWOKRsOpd5CaHH1yX6C5G0_pVXY25fZ9WUkRokMKhxTWg2hlgYOaX828rbQhl9FpDioEQxXhtsiulBtUmK-ZrRFLBDbN_rgIY2l7G6ALaEyT19H3KKwpA1yCXbIU2b339nTYEwRl2o",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJaxBnnfFW2YARARfzJYgnibY",
+         "plus_code" : {
+            "compound_code" : "QXF2+V9 San Diego, California",
+            "global_code" : "8544QXF2+V9"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJaxBnnfFW2YARARfzJYgnibY",
+         "types" : [
+            "jewelry_store",
+            "point_of_interest",
+            "clothing_store",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 47
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "4362 54th St, San Diego, CA 92115, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7570907,
+               "lng" : -117.0801038
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.75843947989273,
+                  "lng" : -117.0786867701073
+               },
+               "southwest" : {
+                  "lat" : 32.75573982010729,
+                  "lng" : -117.0813864298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Mona's Fashion Junior & Plus",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJMd5PfSBU2YAR4IbWxKNR2gA",
+         "plus_code" : {
+            "compound_code" : "QW49+RX San Diego, California",
+            "global_code" : "8544QW49+RX"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJMd5PfSBU2YAR4IbWxKNR2gA",
+         "types" : [ "clothing_store", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 7
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "formatted_address" : "6066 1/2 University Ave, San Diego, CA 92115, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7526362,
+               "lng" : -117.0658241
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.75392572989272,
+                  "lng" : -117.0644480701073
+               },
+               "southwest" : {
+                  "lat" : 32.75122607010728,
+                  "lng" : -117.0671477298928
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Sara Clothing Center",
+         "permanently_closed" : true,
+         "place_id" : "ChIJbQIEnrxW2YARnB3mPE_rguA",
+         "plus_code" : {
+            "compound_code" : "QW3M+3M San Diego, California",
+            "global_code" : "8544QW3M+3M"
+         },
+         "rating" : 0,
+         "reference" : "ChIJbQIEnrxW2YARnB3mPE_rguA",
+         "types" : [ "clothing_store", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "formatted_address" : "6771 El Cajon Blvd, San Diego, CA 92115, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7684875,
+               "lng" : -117.0520944
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.76987767989272,
+                  "lng" : -117.0507456201073
+               },
+               "southwest" : {
+                  "lat" : 32.76717802010728,
+                  "lng" : -117.0534452798928
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Diana's Unique Boutique",
+         "permanently_closed" : true,
+         "place_id" : "ChIJSeBsTuxW2YAR7nI1LooHW0U",
+         "plus_code" : {
+            "compound_code" : "QW9X+95 San Diego, California",
+            "global_code" : "8544QW9X+95"
+         },
+         "rating" : 0,
+         "reference" : "ChIJSeBsTuxW2YAR7nI1LooHW0U",
+         "types" : [ "clothing_store", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "formatted_address" : "6255 University Ave ste a, San Diego, CA 92115, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.753584,
+               "lng" : -117.0605273
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.75511007989272,
+                  "lng" : -117.0592526701073
+               },
+               "southwest" : {
+                  "lat" : 32.75241042010728,
+                  "lng" : -117.0619523298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Kristi Luv's Connection",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104104987195621318789\"\u003eKascade Godiva\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLVBmRsHTpljoKEqh3pYg0SmKNw8_ZzwqJJ0a1Gr_VJAl8PLH4TFK50YAoavrJ2jJo4t3-F7BASIRR8Krt5S035GVYwWEKbW-OGMUBp3A_0OCtgnfw6zGeii4DAUYEbNzU3G4tgrrKnuO2nt3hFwwCfMX0nblvxNUJbNvbgieeFdHnI",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJGYzGS7lW2YARJSxJQ9C63js",
+         "plus_code" : {
+            "compound_code" : "QW3Q+CQ San Diego, California",
+            "global_code" : "8544QW3Q+CQ"
+         },
+         "rating" : 5,
+         "reference" : "ChIJGYzGS7lW2YARJSxJQ9C63js",
+         "types" : [ "point_of_interest", "clothing_store", "store", "establishment" ],
+         "user_ratings_total" : 5
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "4875 University Ave, San Diego, CA 92105, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7493321,
+               "lng" : -117.0895553
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.75078557989271,
+                  "lng" : -117.0882033701073
+               },
+               "southwest" : {
+                  "lat" : 32.74808592010727,
+                  "lng" : -117.0909030298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Cultural Fashion",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJCQd5thlU2YARKUtFxES5WIo",
+         "plus_code" : {
+            "compound_code" : "PWX6+P5 San Diego, California",
+            "global_code" : "8544PWX6+P5"
+         },
+         "rating" : 5,
+         "reference" : "ChIJCQd5thlU2YARKUtFxES5WIo",
+         "types" : [ "clothing_store", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "5405 University Ave, San Diego, CA 92105, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.747076,
+               "lng" : -117.077524
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.74856927989273,
+                  "lng" : -117.0762451201073
+               },
+               "southwest" : {
+                  "lat" : 32.74586962010728,
+                  "lng" : -117.0789447798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Burlington",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103073688971315344718\"\u003eAmaylee Yang\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI9r_aTwnozyAWQ3ICWS0UokJOYKzBxh_r7GqFjUnrRYa9xUvdRkar3n32OHPGz_trgLxClPsnEuWQ6htGeSrR_ZMKx3HtvQR0QhVY6kgVhYghwody2XEjVBOcAV2Vh63RgfOl0SRZXNb9BOk9fC8EP8n3KcxcyRvQaAk1AZnP5NVd8",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJQZmuoadW2YARco3DuOYNQeo",
+         "plus_code" : {
+            "compound_code" : "PWWC+RX San Diego, California",
+            "global_code" : "8544PWWC+RX"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJQZmuoadW2YARco3DuOYNQeo",
+         "types" : [ "clothing_store", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 283
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "4292 University Ave, San Diego, CA 92105, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7498891,
+               "lng" : -117.1022454
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.75111497989273,
+                  "lng" : -117.1008986701073
+               },
+               "southwest" : {
+                  "lat" : 32.74841532010728,
+                  "lng" : -117.1035983298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Dickies",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112269419934195898040\"\u003eDickies\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK88WrgzjeIes-qmQkzjzXNR2Eao1ogMHTSWR0HcQNKRnX8PQ_2sKrgzllF1O-ua2wkO5w_Qus8W8fhjzsi7lb4AsMhCosrwxZKCOZ9gKmY7TeAjgjIniQ-Zqrrg5J1zE8p878FudnuXk0WbkhBIpaYsyvw6Xf-MiRQiJ0Ca5eDfWvy",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJE5Ct_D9U2YARDLQb75Jtitc",
+         "plus_code" : {
+            "compound_code" : "PVXX+X4 San Diego, California",
+            "global_code" : "8544PVXX+X4"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJE5Ct_D9U2YARDLQb75Jtitc",
+         "types" : [ "clothing_store", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 68
+      }
+   ],
+   "status" : "OK"
+}
