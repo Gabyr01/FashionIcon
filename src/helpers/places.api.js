@@ -1,7 +1,7 @@
 /**
  * This file contains a class that has informtaion about the Places API.
  */
-
+import apikey from "./places.api.key"
 /********************************
  * TODO: Implement this class based on https://developers.google.com/places/web-service/search
  * 
@@ -10,8 +10,9 @@
  * Step 1: Import API key. 
  * Step 2: Go to the TextSearch Request Section and read take note of the required parameters.
  * Step 4: Read about the Query parameter. (Should we add a types parameter? probably yes)
+ *        
  * Step 5: Go to the Documentation and grab the textsearch link under Place Search.
- * 
+ *         https://maps.googleapis.com/maps/api/place/textsearch/output?parameters
  * We are now ready to write the code
  * 
  * Step 6: Create a private variable called key, and set its value to the imported API key from step 1.
@@ -22,23 +23,48 @@
  */
 
  export class PlacesAPI{
-
-     constructor(){
+//private variables
+    #key = null
+    #endpoint = null
+    #proxyUrl = null
+    #zipcodeLength = null
+    #typeOfClothingStore = null
+    constructor(){
          //Step 6 to 7
-     }
+         this.#key = apikey
+         this.#endpoint = "https://maps.googleapis.com/maps/api/place/textsearch/json?"
+         this.#proxyUrl = "https://cors-anywhere.herokuapp.com/"
+         this.#zipcodeLength = 5 
+         this.#typeOfClothingStore = "clothing_store"
+     
+    }
 
      // Gets clothing stores around a given zip code.
      // Note that this may include clothing stores outside of the zip code but still near by.
-     getClothingStoresNear(/* Zipcode */){
+     /**
+      * @param:zipcode
+      * @returns:api link based on zipcode
+      */
+     getClothingStoresNear(zipcode){
         // 1. Create a try catch to verify if input is valid.
-        // 2. Using the Private varibales and the Zipcode. Create a string literal (i.e) concatnate 
-        //    everything to form a valid api Link such that :
-        /***
-         * A. query = zipcode
-         * B. type = clothing store
-         * C. key = apikey
-         */
-
+        try {
+            // 2. Using the Private varibales and the Zipcode. Create a string literal (i.e) concatnate 
+            //    everything to form a valid api Link such that :
+            /***
+             * A. query = zipcode
+             * B. type = clothing store
+             * C. key = apikey
+             */
+            if(typeof zipcode === "string" && zipcode.length === this.#zipcodeLength){
+                return `${this.#endpoint}query=${zipcode}&type=${this.#typeOfClothingStore}&key=${this.#key}`
+            }
+            else{
+                throw new Error()
+            }
+        } catch (error) {
+            console.log(error)
+        }
+        return null
         // Boom, We are ready to test and debug if needed.
      }
 
