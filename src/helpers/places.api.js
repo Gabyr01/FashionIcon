@@ -29,6 +29,7 @@ import apikey from "./places.api.key"
     #proxyUrl = null
     #zipcodeLength = null
     #typeOfClothingStore = null
+
     constructor(){
          //Step 6 to 7
          this.#key = apikey
@@ -83,10 +84,33 @@ import apikey from "./places.api.key"
         types:
         place_id
      */
-     getSanitizedResults(results){
 
-         // Returns an array of clothing stores
-     }
+
+    getSanitizedResults(results){
+        if(Array.isArray(results)){
+            const sanitizedResults = results.map(place => {
+            return new ClothingStore(
+                place.place_id,
+                place.name,
+                place.business_status,
+                place.formatted_address,
+                place.geometry,
+                place.icon,
+                place.photos,
+                place.rating,
+                place.types,
+                place.opening_hours
+            );
+        })
+        // Returns an array of clothing stores
+        return sanitizedResults
+        }
+        else{
+            console.error(`${results} must be an array`)
+            return null
+        }
+       
+    }
 
      // Removes clothing stores that are note in that zipcode but still came in the result. IF we have time we can work on this too
      filterResultsByZipCode(/* results, zipcode */){
@@ -96,7 +120,16 @@ import apikey from "./places.api.key"
 
  // The clothing store class 
 export class ClothingStore{
-    constructor(place_id, name, business_status, formatted_address, geometry, icon, photos, rating, types){
-
+    constructor(place_id, name, business_status, formatted_address, geometry, icon, photos, rating, types, opening_hours){
+        this.place_id = place_id //string
+        this.name =  name //string
+        this.business_status = business_status //string
+        this.formatted_address = formatted_address //string
+        this.geometry = geometry //object
+        this.icon = icon //string
+        this.photos = photos //array
+        this.rating = rating //number
+        this.types = types //array
+        this.opening_hours = opening_hours //object
     }
 }
